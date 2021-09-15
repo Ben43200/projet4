@@ -7796,7 +7796,8 @@ button.close {
     display: block;
     margin-right: auto;
     margin-left: auto;
-    
+    /* ajout de margin-top pour créer un espace en bas */
+    margin-top:50px
 }
 
 .pull-right {

@@ -771,21 +771,24 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #A63D0C;
+    background-color: #6D2809;
 }
 
 .tc-white {
-    color: #A63D0C!important;
+    color: #6D2809!important;
 }
 
 .btn-atomic-tangerine {
-    background: #A63D0C;
+    background: #6D2809;
     color: #FFFFFF!important;
+    /* ajout margin-bottom pour créer décalage sous le bouton contact */
+    margin-bottom:50px;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
     color: #FFFFFF!important;
+    
 }
 
 .ltc-white {
@@ -797,7 +800,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #A63D0C!important;
+    color: #6D2809!important;
 }
 
 .ltc-atomic-tangerine:hover {
