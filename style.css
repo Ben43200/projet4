@@ -784,7 +784,7 @@ h4 {
 
 
 .bgc-dark-slate-blue {
-    background-color: #080d11;
+    background-color: #E6E6E6;
 }
 
 
@@ -803,7 +803,7 @@ h4 {
 
 .tc-white {
     /* color: #6D2809!important; */
-    color: yellow !important;
+    color: rgb(89, 0, 255) !important;
 }
 
 .btn-atomic-tangerine {
@@ -1103,4 +1103,7 @@ blockquote{
 }
 /* .text-center{
     color:black;
+} */
+/* .text-center .white{
+    color:blue;
 } */
