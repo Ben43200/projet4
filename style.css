@@ -1094,7 +1094,7 @@ h4 {
     text-transform: lowercase;
     font-size:2rem;
 }
-p{
+p:not(.lightbox-caption){
     font-size: 1.5rem;
 }
 
