@@ -851,7 +851,12 @@ h4 {
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere.webp");
     }
-
+@media (max-width:475px) {
+    .bg-banniere{
+        background:none;
+        background-color: black;
+    }    
+}
  
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
