@@ -91,11 +91,7 @@ a:hover {
     right: 0;
 } 
 
-/* .texture-paper::before {
-    /* background-color: white; */
-    /* /* background-size: 280px 280px;  
-    color:rgba(165, 147, 99, 0.7)
-} */
+
 
 .b-parallax {
     background-attachment: fixed;
@@ -285,16 +281,9 @@ a:hover {
     padding-left: 0;
 }
 
-
-
-
 #bloc-1-hero h1 {
     font-size: 32px;
-   
 }
-
-
-
 
 .navbar {
     margin-bottom: 0;
@@ -733,8 +722,7 @@ h3 {
 
 h1 {
     color: #333333!important;
-  /* color: yellow !important; */
-
+ 
 }
 
 h4 {
@@ -779,24 +767,9 @@ h4 {
     background-color: #FFFFFF;
 }
 
-
-
-
-
-
-
 .bgc-dark-slate-blue {
     background-color: #E6E6E6;
 }
-
-
-
-
-
-
-
-
-
 
 
 .bgc-atomic-tangerine {
@@ -804,8 +777,6 @@ h4 {
 }
 
 .tc-white {
-    /* color: #6D2809!important; */
-    /* color: rgb(89, 0, 255) !important; */
     color: white !important;;
     background-color:#6D2809 ;
 }
@@ -813,7 +784,6 @@ h4 {
 .btn-atomic-tangerine {
     background: #6D2809;
     color: #FFFFFF!important;
-    /* ajout margin-bottom pour créer décalage sous le bouton contact */
     margin-bottom:50px;
 }
 
@@ -909,10 +879,7 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    /* .bloc {
-        /* padding-left: none;
-        padding-right: none; *
-    } */
+
     .bloc-group,
     .bloc-group .bloc {
         display: block;
@@ -921,8 +888,7 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
-        /* padding-left: none;
-        padding-right: none; */
+    
     }
 }
 
@@ -1078,14 +1044,6 @@ h4 {
     }
 }
 
-
-
-/* h3.mg-md.text-center{
-    margin-top:10px;
-} */
-
-
-
 .title-2{
     text-transform: lowercase;
     font-size:2rem;
@@ -1101,9 +1059,3 @@ p:not(.lightbox-caption){
 blockquote{
     color:black;
 }
-/* .text-center{
-    color:black;
-} */
-/* .text-center .white{
-    color:blue;
-} */
